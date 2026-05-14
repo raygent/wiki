@@ -1,0 +1,9 @@
+# Safety net — never commit secrets
+*.env
+.env*
+*.key
+*.pem
+*.p12
+*.token
+secrets/
+credentials/
