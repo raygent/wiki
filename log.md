@@ -16,3 +16,9 @@
 ## [2026-05-13] create | hermes-agent
 - Tool/workflow page created to capture Hermes setup and conventions
 - File: tools/hermes-agent.md
+
+## [2026-05-16] create | super-mario
+- 3D Mario platformer built with Next.js + React Three Fiber + Zustand
+- Dev server running on port 3001
+- Pushed to github.com/raygent/super-mario
+- File: projects/super-mario.md
